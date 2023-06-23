@@ -1,0 +1,6 @@
+.chroma
+chroma_logs.log
+embeddings.npy
+.direnv/
+.env
+__pycache__
